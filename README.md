@@ -1,0 +1,2 @@
+# static-src
+Static Resources
